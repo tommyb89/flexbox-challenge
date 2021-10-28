@@ -79,3 +79,8 @@ main {
 .article-2 h2 {
   margin-bottom: 5px;
 }
+
+/* Footer */
+footer {
+  text-align: center;
+}
